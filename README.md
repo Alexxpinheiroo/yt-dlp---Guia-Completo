@@ -181,8 +181,9 @@ Guia completo em português para instalação e uso do yt-dlp para download de v
 ---
 
 👨‍💻 **Autor**
-- Seu Nome
-- GitHub: `@seuusuario`
+- ALEX PINHEIRO
+- GitHub: `
+Alexxpinheiroo`
 
 ---
 
